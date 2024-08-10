@@ -1,5 +1,7 @@
 # ![[Builder Design Patterns]](./assets/builder-design-pattern-header.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/builder-design-pattern-in-java) repo instead.
+
 ## About
 
 Explore the Builder design pattern, understanding its strengths and weaknesses. Learn to implement it to construct complex objects efficiently. Engage in group discussions to deepen your understanding of Java design patterns.
