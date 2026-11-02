@@ -1,6 +1,6 @@
 # ![[Builder Design Patterns]](./assets/builder-design-pattern-header.png)
 
-# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/builder-design-pattern-in-java) repo instead.
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://github.com/ga-curriculum/builder-design-pattern-in-java) repo instead.
 
 ## About
 
